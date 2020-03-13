@@ -1,12 +1,12 @@
-# _Productos Online_ 🛒
+# _Productos Online_  🛒
 
 ## Tecnologias
 
 ![enter image description here](https://miro.medium.com/max/2756/1*rV8XbNaeIvjBiHaVxXtEEA.png)
 
-- lenguaje de programacion **NODE JS** + su framework **EXPRESS**
+- Lenguaje de programacion **NODE JS** + su framework **EXPRESS**
 - Base de datos **MONGODB** y la biblioteca **MONGOOSE**
-- lenguaje de manipulación y consulta de datos de código abierto para API **GRAPHQL** + conjunto de herramientas para crear un servidor GraphQL **APOLLO**
+- Lenguaje de manipulación y consulta de datos de código abierto para API **GRAPHQL** + conjunto de herramientas para crear un servidor GraphQL **APOLLO**
 
 ## Descripcion
 
