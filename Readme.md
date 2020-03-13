@@ -27,7 +27,12 @@ EL API de **Productos Online** monitoreara el control productos, incluyendo la p
     `git clone https://github.com/geek1612/api_productosonline.git ventas_online`\*\*
 - Instalar Dependencias
   - `npm install o npm i` permite instalar cualquier librería, lo cual nos permitirá agregar dependencias de forma simple, desarrollado en su totalidad bajo el lenguaje JavaScript.
-     - entre las dependencias tenemos : 
-  1.<a href="https://expressjs.com/es/starter/installing.html">npm i express</a> 2. npm i mongose 3. npm i graphQL 4. npm i colors 5. npm i morgan
+     - entre las dependencias tenemos :
+
+  1.<a href="https://expressjs.com/es/starter/installing.html">npm i express</a> 
+  2.<a href="https://www.npmjs.com/package/nodemon">npm i mongoose</a>
+  3.<a href="https://www.npmjs.com/package/graphql">npm i graphQL</a>
+  4.<a href="https://www.npmjs.com/package/colors">npm i colors</a>
+  <a href="https://www.npmjs.com/package/morgan">npm i morgan</a>
 - Instalar Dependencias de Desarrollo
   - `npm i nodemon -D` permite instalar la herramienta nodemon que ayuda a desarrollar aplicaciones basadas en node.js al reiniciar automáticamente la aplicación de nodo cuando se detectan cambios en el directorio.
