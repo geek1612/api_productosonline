@@ -1,0 +1,14 @@
+# creamos las definiciones de tipo de la coleeccion
+type Query {
+  getMarcas: [Marca]
+}
+
+type Mutation {
+  createMarca(nombre: String): Boolean
+  deleteMarca(_id: ID): Boolean
+}
+
+type Marca {
+  _id: ID
+  nombre: String
+}

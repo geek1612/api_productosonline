@@ -1,0 +1,15 @@
+#creamos las definiciones del tipo de la colecion
+type Query {
+  getApp: [App]
+}
+
+type Mutation {
+  createApp(nombre: String, logo: String): Boolean
+  deleteApp(_id: ID): Boolean
+}
+
+type App {
+  _id: ID
+  nombre: String
+  logo: String
+}
