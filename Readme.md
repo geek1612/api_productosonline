@@ -11,4 +11,11 @@
 
 EL API de **Productos Online** monitoreara el control  productos, incluyendo la posibilidad de realizar el  [registro],[actualizacion],[eliminacion] y [consultas]  de dichos productos y generar  [informes].
 
-<div style="text-align: center"> ![Shopping Cart on Facebook 4.0](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/shopping-trolley_1f6d2.png) </div> 
+<p align="center">
+  <b>Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif">
+</p>
