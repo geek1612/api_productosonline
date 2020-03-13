@@ -19,7 +19,7 @@ EL API de **Productos Online** monitoreara el control productos, incluyendo la p
 ## Instalación
 
 - Para instalar el repositorio debemos:
-  - debemos copiar la url del proyecto a clonar
+  - Copiar la url del proyecto a clonar
   - Abrir el cmd con los controles **windows + r**
   - Escribir **cmd** en el ejecutable
   - Escribir en la consola **git clone** + la ruta del proyecto a clonar y das un espacio para poner el nombre que deseas
